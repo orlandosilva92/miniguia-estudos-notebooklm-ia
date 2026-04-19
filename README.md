@@ -64,7 +64,7 @@ O uso da IA permite a transição de **Executor** para **Estrategista**. O difer
 
 # Glossário de Conceitos
 
-| :------------------------------ | :------------------------------------------------------------------------------------------------- |
+
 | Termo                           | Definição                                                                                          |
 | :------------------------------ | :------------------------------------------------------------------------------------------------- |
 | **Machine Learning**            | Sistemas que aprendem padrões em dados sem serem programados explicitamente para aquela tarefa.    |
@@ -72,7 +72,7 @@ O uso da IA permite a transição de **Executor** para **Estrategista**. O difer
 | **SLM (Small Language Models)** | Modelos menores e eficientes, ideais para tarefas específicas e baixo custo computacional.         |
 | **No-Code / AutoML**            | Ferramentas que automatizam a criação de IA para quem não possui expertise técnica em programação. |
 | **NLU**                         | Compreensão de Linguagem Natural; a parte da IA que entende a intenção por trás da fala humana.    |
-| :------------------------------ | :------------------------------------------------------------------------------------------------- |
+
 ---
 
 # Prompts Reutilizáveis para Revisão
