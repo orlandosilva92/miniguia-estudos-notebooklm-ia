@@ -1,5 +1,3 @@
-# miniguia-estudos-notebooklm-ia
-
 # Projeto: NotebookLM Especialista em IA e Chatbots
 
 # 1. Contexto e Objetivos
