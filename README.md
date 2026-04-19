@@ -13,7 +13,7 @@ Este material foi desenvolvido como parte de um plano de estudos intensivo para 
 
 ---
 
-# 2. Curadoria de Fontes
+# 2. Fontes
 Para alimentar o especialista, foram selecionadas as seguintes fontes abertas e guias técnicos:
 
 1.  [Inteligência Artificial Para Leigos (Scribd)](https://pt.scribd.com/document/930419788/Inteligencia-Artificial-Para-Leigos)
