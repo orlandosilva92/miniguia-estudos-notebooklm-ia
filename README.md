@@ -32,10 +32,13 @@ Abaixo, documento o processo de extração de conhecimento, as perguntas estrat�
 
 *P1: O que devo aprender primeiro ao entrar no mundo das IA's?**
     *Resposta:* Focar na tríade teórica (Conceitos), matemática (Álgebra Linear, Cálculo, Estatística) e nos pilares de modelagem (Dados, Padrões e Generalização).
+    
 *P2: Para trabalhar com IA é necessário saber programar?**
     *Resposta:* Não estritamente. O mercado divide-se entre quem *constrói* (exige código) e quem *aplica* (exige literacia digital e uso de ferramentas No-Code).
+    
 *P3: Como posso criar um chatbot simples, processo a processo?**
     *Resposta:* Seguir a arquitetura: Flask (Servidor) + RiveScript (Lógica) + Redis (Sessão) + Heroku (Hospedagem).
+    
 *P4: Como o mercado vê quem utiliza IA no dia a dia?**
     *Resposta:* Como profissionais estratégicos e "Especialistas de Domínio + IA", que focam em habilidades humanas (empatia/ética) enquanto a IA cuida do volume técnico.
 
