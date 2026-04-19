@@ -49,9 +49,7 @@ Abaixo, documento o processo de extração de conhecimento, as perguntas estrat�
 
 ---
 
-# 4. Miniguia de Estudo (Entrega Final)
-
-# Resumos Estruturados do Assunto
+# 4. Miniguia de Estudo
 
 # I. A Base da Pirâmide
 A IA se organiza em camadas: a IA é o campo amplo; o **Machine Learning** é o aprendizado por dados; e o **Deep Learning** é a evolução com redes neurais complexas. Para dominar isso, a matemática (matrizes e probabilidades) é o motor invisível.
