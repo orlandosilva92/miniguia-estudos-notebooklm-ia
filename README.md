@@ -78,6 +78,9 @@ O uso da IA permite a transição de **Executor** para **Estrategista**. O difer
 # Prompts Reutilizáveis para Revisão
 
 *Revisão Conceitual:*"Com base nos documentos, explique a diferença entre aprendizado supervisionado e não-supervisionado usando um exemplo do mercado financeiro."*
+
 *Aprofundamento Técnico:*"Quais são as principais limitações do RiveScript mencionadas nas fontes para chatbots de grande escala?"*
+
 *Aplicação Prática:*"Como posso utilizar a técnica de extração de intenções para automatizar o atendimento de um suporte de TI?"*
+
 *Validação de Carreira:*"Liste as 5 competências de 'Literacia Digital' citadas que são mais valorizadas pelas empresas hoje."*
